@@ -83,4 +83,4 @@ to improve employee retention.
 
 ## 📷 Snapshot
 
-![Attrition Dashboard]([./Snapshot%20of%20Project.png](https://github.com/sahil-sawal/HR-Analytics-PowerBI/blob/main/Snapshot%20of%20Project.png))
+![Attrition Dashboard](https://github.com/sahil-sawal/HR-Analytics-PowerBI/blob/main/Snapshot%20of%20Project.png)
