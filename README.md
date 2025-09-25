@@ -20,6 +20,14 @@ to improve employee retention.
 
 ------------------------------------------------------------------------
 
+## 🛠️ Tools & Technologies
+
+-   **Power BI / Tableau / Excel** (depending on your implementation)
+-   Data visualization techniques for HR analytics
+
+------------------------------------------------------------------------
+
+
 ## 🚀 Features
 
 -   **Key Metrics Overview**
@@ -74,12 +82,6 @@ to improve employee retention.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tools & Technologies
-
--   **Power BI / Tableau / Excel** (depending on your implementation)
--   Data visualization techniques for HR analytics
-
-------------------------------------------------------------------------
 
 ## 📷 Snapshot
 
